@@ -8,5 +8,4 @@ if number==user:
 elif numberB==user:
     print ('You won')
 elif numberB!=user:
-    print ('You lost')
-    
+    print ('You lost')    
